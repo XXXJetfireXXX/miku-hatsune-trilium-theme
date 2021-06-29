@@ -54,6 +54,7 @@ body.theme-miku-hatsune {
 --active-item-background-color: #0f0f0fCC;
 --modal-background-color: #0f0f0fCC;
 --muted-text-color: (--main-text-color);
+--hover-item-text-color: #ff0000;
 /* Need to work on this
 --hover-item-background-color: ;
     
